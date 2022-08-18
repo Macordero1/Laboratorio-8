@@ -54,20 +54,36 @@ el osciloscopio.
 ![image](https://user-images.githubusercontent.com/105742149/185446204-e7b541db-8b62-4b80-9627-83ce01ee2ac7.png)
 
 
-**8.6. Responda las siguientes preguntas:**
-
+## **8.6. Responda las siguientes preguntas:**
 
 **8.6.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
+
+5
 
 **8.6.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
 **8.6.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
+3
+
 **8.6.4 ¿En qué valor está posicionada la perilla TIME/DIV?**
 
 **8.6.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
+Amplitud: 6.4V
+
+Periodo:0.426 ms/ 0.0004 s
+
 **8.6.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida**
+
+Frecuencia natural:
+
+![image](https://user-images.githubusercontent.com/105742149/185449094-44b83f5e-fa42-4e61-80ea-fbc1843611f6.png)
+
+Frecuencia angular:
+
+![image](https://user-images.githubusercontent.com/105742149/185449626-87881ba9-fd66-453c-80a3-2c6249bc5141.png)
+
 
 **8.6.7 Con el multímetro digital mida el voltaje de salida en RL:**
 
@@ -78,7 +94,7 @@ el osciloscopio.
 * Un osciloscopio hace mediciones cuantitativas y cualitativas. 
 * La manera de onda sinusoidal (onda seno) es el tipo más común y importante pues todos los otros tipos de maneras de onda repetitivas tienen la posibilidad de ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de manera de onda que se repite a intervalos fijos. 
 * Una onda seno puede representarse gráficamente por medio de valores de voltaje o corriente el eje vertical y por una medición angular (grados o radianes) en todo el eje horizontal. 
-* 
+
 ## **Bibliografia**
 
 
