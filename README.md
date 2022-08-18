@@ -45,9 +45,13 @@ Investigue la representación de la onda senoidal, tanto en su forma gráfica co
 8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
 
+![image](https://user-images.githubusercontent.com/105742149/185445844-7a79df03-a9ba-48e5-a59d-449865379298.png)
+
 
 8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
+
+![image](https://user-images.githubusercontent.com/105742149/185446204-e7b541db-8b62-4b80-9627-83ce01ee2ac7.png)
 
 
 **8.6. Responda las siguientes preguntas:**
