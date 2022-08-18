@@ -9,21 +9,21 @@
 
 **Asignatura:** Fundamentos de Circuitos Eléctricos
 
-## **7.1. Objetivos de la práctica**
+## **8.1. Objetivos de la práctica**
 
 ### **Objetivo General.**
 
 ### **Objetivos Especificos** 
 
-## **7.2. Materiales**
+## **8.2. Materiales**
 
-## **7.3. Información General**
+## **8.3. Información General**
 
-## **7.4. Requisitos previos**
+## **8.4. Requisitos previos**
 
-## **7.5. Procedimiento**
+## **8.5. Procedimiento**
 
-7.5.1. Implemente el circuito que se presenta en la figura 7.1
+8.5.1. Implemente el circuito que se presenta en la figura 7.1
 
 8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
@@ -33,29 +33,30 @@ una frecuencia de 2.5 Khz.
 el osciloscopio.
 
 
-5.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-8.5.4. Responda las siguientes preguntas:
+**8.6. Responda las siguientes preguntas:**
 
 
-5.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+**8.6.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-¿En qué valor está posicionada la perilla VOLTS/DIV?
+**8.6.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
-5.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+**8.6.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
-5.4 ¿En qué valor está posicionada la perilla TIME/DIV?
+**8.6.4 ¿En qué valor está posicionada la perilla TIME/DIV?**
 
-5.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+**8.6.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
+**8.6.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida**
 
-5.8 Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
+**8.6.7 Con el multímetro digital mida el voltaje de salida en RL:**
+
+**8.6.8 Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?**
 
 ## **Concluciones**
 
 ## **Bibliografia**
 
-5.7 Con el multímetro digital mida el voltaje de salida en RL:
 
-5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
+
+
