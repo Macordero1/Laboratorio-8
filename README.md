@@ -87,7 +87,7 @@ Frecuencia angular:
 
 **8.6.7 Con el multímetro digital mida el voltaje de salida en RL:**
 
-**8.6.8 Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?**
+**8.6.8 Compare el voltaje medido en el punto 8.6.5 y el obtenido en el punto 8.6.7. ¿Coinciden? , ¿Por qué?**
 
 ## **Concluciones**
 
