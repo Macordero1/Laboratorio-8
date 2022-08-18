@@ -19,7 +19,7 @@
 
 * Observar la onda sinusoidal medida por el osciloscopio al resistor de carga RL usando el simulador ACDCLAB 
 * Aplicar conocimientos fisicos que sean necesarios para analizar el presente caso
-* 
+
 ## **8.2. Requisitos previos**
 
 Investigue la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática.
