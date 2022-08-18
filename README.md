@@ -70,9 +70,9 @@ el osciloscopio.
 
 **8.6.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-Amplitud: 6.4V
+**Amplitud:** 6.4V
 
-Periodo:0.426 ms/ 0.0004 s
+**Periodo:** 0.426 ms/ 0.0004 s
 
 **8.6.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida**
 
