@@ -34,10 +34,13 @@ Investigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 ## **8.5. Procedimiento**
 
-8.5.1. Implemente el circuito que se presenta en la figura 7.1
-
 ![image](https://user-images.githubusercontent.com/105742149/185438109-00162d80-598c-4c41-aae5-bd4d17199150.png)
 
+8.5.1. Implemente el circuito que se presenta en la figura 7.1
+
+![image](https://user-images.githubusercontent.com/105742149/185440344-d4efd81c-1221-4f49-88a9-010004b40858.png)
+
+*Circuito Armado*
 
 8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
