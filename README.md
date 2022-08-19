@@ -82,11 +82,11 @@ el osciloscopio.
 
 **8.6.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida**
 
-Frecuencia natural:
+**Frecuencia natural:**
 
 ![image](https://user-images.githubusercontent.com/105742149/185449094-44b83f5e-fa42-4e61-80ea-fbc1843611f6.png)
 
-Frecuencia angular:
+**Frecuencia angular:**
 
 ![image](https://user-images.githubusercontent.com/105742149/185449626-87881ba9-fd66-453c-80a3-2c6249bc5141.png)
 
