@@ -98,6 +98,8 @@ Frecuencia angular:
 
 **8.6.8 Compare el voltaje medido en el punto 8.6.5 y el obtenido en el punto 8.6.7. ¿Coinciden? , ¿Por qué?**
 
+No coinciden ya que las medidas son tomadas con distintas herramientas, en donde el osciloscopio nos da un valor pico, mientras el multimetro da un valor rms
+
 ## **Concluciones**
 
 * Un osciloscopio hace mediciones cuantitativas y cualitativas. 
