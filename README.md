@@ -53,7 +53,7 @@ una frecuencia de 2.5 Khz.
 8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/105742149/185446204-e7b541db-8b62-4b80-9627-83ce01ee2ac7.png)
+![image](https://user-images.githubusercontent.com/105742149/185681443-4d5a68f8-d454-48ec-8dca-1054b875a6ca.png)
 
 
 ## **8.6. Responda las siguientes preguntas:**
