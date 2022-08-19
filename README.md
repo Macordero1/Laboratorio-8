@@ -68,7 +68,7 @@ el osciloscopio.
 
 **8.6.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
-3
+2.5
 
 **8.6.4 ¿En qué valor está posicionada la perilla TIME/DIV?**
 
