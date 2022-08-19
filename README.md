@@ -64,11 +64,15 @@ el osciloscopio.
 
 **8.6.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
+10
+
 **8.6.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
 3
 
 **8.6.4 ¿En qué valor está posicionada la perilla TIME/DIV?**
+
+0.1
 
 **8.6.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
