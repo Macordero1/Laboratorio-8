@@ -103,6 +103,5 @@ Frecuencia angular:
 
 ## **Bibliografia**
 
-
-
+Floyd, T (2007). Principios de circuitos eléctricos (8va ed), México DF, México: Pearson Educación.
 
