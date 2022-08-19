@@ -26,6 +26,8 @@ Investigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 ## **8.3. Información General**
 
+![cap7-8(31)](https://user-images.githubusercontent.com/105812540/185520871-95ce606e-12f6-4fd9-9e6f-0f5bff0e8156.jpg)
+
 
 ## **8.4. Materiales**
 
